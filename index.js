@@ -2,5 +2,6 @@
 
 var destructivelyAppendKitten = function(array, name){
   array.push(name);
+  return array;
 }
 
