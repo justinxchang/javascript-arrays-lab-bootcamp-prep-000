@@ -17,7 +17,7 @@ function destructivelyRemoveFirstKitten(){
 }
 
 function appendKitten(name){
-  return kittens.slice().kittens.push(name);
+  return kittens.concat(name);
 }
 
 function prependKitten(name){
