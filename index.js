@@ -4,4 +4,4 @@ function destructivelyPrependKitten(name){
   
 }
 
-console.log(kittens)
+console.log(kitten)
