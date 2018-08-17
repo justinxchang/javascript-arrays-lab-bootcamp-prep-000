@@ -20,6 +20,10 @@ function appendKitten(name){
   return kittens.splice(2, 0, name);
 }
 
+function prependKitten(name){
+  return 
+}
+
 
 function removeLastKitten(){
   return kittens.slice(0, 2);
