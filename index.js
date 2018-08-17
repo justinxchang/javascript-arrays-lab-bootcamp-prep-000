@@ -1,6 +1,6 @@
 // Add your functions and code here
 
-function destructivelyPrependKitten(array, name){
+var destructivelyPrependKitten = function(array, name){
   array.push(name);
 }
 
